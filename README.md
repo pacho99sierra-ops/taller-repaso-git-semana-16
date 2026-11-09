@@ -9,3 +9,4 @@ Proyecto de práctica para aprender control de versiones.
 - Lista de tareas
 - Notas de Git
 - Perfil de ejemplo
+- Guía de lectura
