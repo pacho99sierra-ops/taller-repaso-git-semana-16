@@ -10,3 +10,4 @@ Proyecto de práctica para aprender control de versiones.
 - Notas de Git
 - Perfil de ejemplo
 - Guía de lectura
+- Cambio hecho desde GitHub
