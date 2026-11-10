@@ -11,3 +11,4 @@ Proyecto de práctica para aprender control de versiones.
 - Perfil de ejemplo
 - Guía de lectura
 - Cambio hecho desde GitHub
+- Segundo cambio desde GitHub
