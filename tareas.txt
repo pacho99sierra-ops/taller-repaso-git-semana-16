@@ -3,3 +3,4 @@
 - Trabajar con ramas
 - Revisar diferencias antes de guardar
 - Practicar reset HEAD
+- Practicar stash
